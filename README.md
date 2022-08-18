@@ -1,4 +1,3 @@
 # odin-recipes
 
-//Hello!
-this is a test
+First beginner HTML project utilizing 3 recipes
